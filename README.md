@@ -17,5 +17,5 @@ For example, if nums = [5, 0, 1, 2, 3, 4], the output should be ans = [4, 5, 0, 
 The solution is implemented in Python using a straightforward approach to iterate through the array and build the required ans array based on the given permutation nums.
 
 # Usage
-Feel free to explore the code and adapt it for similar problems or learning purposes.
+Feel free to explore the code and adapt it for similar problems or learning purposes. 
 
